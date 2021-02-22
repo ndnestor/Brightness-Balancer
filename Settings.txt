@@ -1,0 +1,3 @@
+Scan Accuracy = 10
+Maximum Brightness = 100
+Minimum Brightness = 0
