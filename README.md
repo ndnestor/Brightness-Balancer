@@ -1,7 +1,7 @@
 # Brightness-Balancer
 
 ## The Goal
-Reduce the end-user's eye strain by modulating their screen's brightness based on what is currently present on their screen. The brighter the pizels are on average, the lower the brightness setting of the end-user's screen will get. This is mainly a solution for laptops as desktop monitors usually cannot have their brightness setting be modulated programmatically. Laptops, on the other hand, almost always support software-based brightness modulation.
+Reduce the end-user's eye strain by modulating their screen's brightness based on what is currently present on their screen. The brighter the pixels are on average, the lower the brightness setting of the end-user's screen will get. This is mainly a solution for laptops as desktop monitors usually cannot have their brightness setting be modulated programmatically. Laptops, on the other hand, almost always support software-based brightness modulation.
 
 ## Technologies
 This project uses AutoHotKey. The latest version of AutoHotKey that this has been tested on is 1.1.22.02.
